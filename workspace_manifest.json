@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "source": "examples/hello_from_chatgpt.py",
+      "destination": "chatgpt_workspace/hello_from_chatgpt.py"
+    }
+  ]
+}
