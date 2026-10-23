@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "workspace": "~/ai-coding-project",
+  "automatic_actions": [
+    "sync_project_files",
+    "run_python_tests"
+  ],
+  "requires_approval": [
+    "delete_files",
+    "install_packages",
+    "network_upload",
+    "modify_git_remotes",
+    "execute_unlisted_commands"
+  ],
+  "excluded": [
+    ".git",
+    "*.env",
+    "*token*",
+    "*secret*",
+    "agent_backup.py",
+    "agent_before_*.py"
+  ]
+}
