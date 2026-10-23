@@ -8,6 +8,10 @@
     {
       "source": "examples/automatic_sync_test.py",
       "destination": "chatgpt_workspace/automatic_sync_test.py"
+    },
+    {
+      "source": "examples/automatic_sync_retry.py",
+      "destination": "chatgpt_workspace/automatic_sync_retry.py"
     }
   ]
 }
