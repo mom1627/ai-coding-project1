@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "commands": [
+    {
+      "id": "check-python-001",
+      "name": "python",
+      "description": "Check Python version in iSH"
+    },
+    {
+      "id": "check-status-001",
+      "name": "status",
+      "description": "Check local Git working tree"
+    }
+  ]
+}
